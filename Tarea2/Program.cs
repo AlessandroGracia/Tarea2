@@ -13,5 +13,7 @@ namespace Tarea2
             Console.WriteLine("Hola planeta");
 
         }
+        //Funcion
+        Console.WriteLine(SumaFuncion(10,20));
     }
 }
